@@ -1,8 +1,8 @@
 ## About Me
 - 😎 My name is Supavadee Phusanam (Ying)
-- 👨‍💻 
 
-## Our Works
+
+## My Works
 - Ponyo Restaurant Review Web Application
 - Hotel Management Systen Web Application
 
