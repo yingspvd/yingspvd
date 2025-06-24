@@ -1,5 +1,5 @@
 ## About Me
-- 😎 My name is Supavadee Phusanam (Ying)
+- My name is Supavadee Phusanam (Ying)
 
 
 ## My Works
